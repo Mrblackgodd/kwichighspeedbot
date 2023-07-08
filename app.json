@@ -32,7 +32,7 @@
           "description": "Get this value from https://my.telegram.org"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather"
+          "description": "6207723351:AAHlGpWH-s9M72vphP4RJXbGx-3myHAq9i4"
       },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
